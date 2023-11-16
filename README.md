@@ -8,7 +8,7 @@ Me chamo Carolina Gonçalves e estudo desenvolvimento web pelo projeto [#ElasNaT
    + Sass
  
 ### 🔭 Projeto Atual:
-  + [Curriculo Pessoal](https://github.com/uber-sleep/resume)
+  + Em pausa 
 ### 📫 Meu contato:
   + goncalves.macarolina@gmail.com
  
