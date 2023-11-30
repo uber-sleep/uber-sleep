@@ -1,7 +1,7 @@
 # Carolina Gonçalves 
 #### Olá :wave: 
 
-Me chamo Carolina Gonçalves e estudo analise e desenvolvimento de sistemas e programção web.
+Me chamo Carolina Gonçalves e estudo análise e desenvolvimento de sistemas e programação web.
 
 ![gojo being silly](https://64.media.tumblr.com/592e0ef6071eecfcf9f61e83e5efc789/238f2f2b2b691550-ba/s500x750/6adc3ba240a021dfb35d8bc278a70eea68ee306d.gifv)
 
